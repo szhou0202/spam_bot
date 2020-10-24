@@ -2,7 +2,7 @@ import pyautogui
 import time
 
 msg = "deviated septum check oop"
-rep = 365
+rep = 7
 
 for i in range(5):
     print(i)
