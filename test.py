@@ -1,5 +1,4 @@
 from py_imessage import imessage
-import time as time
 
 phone = "7745340078"
 
